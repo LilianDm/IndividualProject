@@ -108,6 +108,7 @@ void Instructions() {
   text("and save everyone!", width/2, 270);
   text("You only have 5 incorrect guesses.", width/2, 300);
   text("                 __                       ", width/2, 300);
+  text("click to begin", width/2, 480);
   textSize(35);
   text("Good luck, Letter Legend...", width/2, 450);
 }
