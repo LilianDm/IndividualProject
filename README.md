@@ -5,8 +5,7 @@
 ### Project Objectives
 * Graphical start and end screen that moves
 * Multiple random words to have guessed
-* Hangman that depletes when there are more incorrect letters
-* Battle sequence with Scriptorus Darkscribe
+* Hangman that increases when there are more incorrect guesses
 ### Class Diagram and Mockups
 ![Grid Layout](https://github.com/LilianDm/IndividualProject/blob/main/images/Letter_Quest_Daigram.png?raw=true)
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/hang-Start.gif?raw=true" alt="Start Screen" width="500" height="500">
