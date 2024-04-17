@@ -9,5 +9,5 @@
 ### Class Diagram and Mockups
 ![Grid Layout](https://github.com/LilianDm/IndividualProject/blob/main/images/Letter_Quest_Daigram.png?raw=true)
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/hang-Start.gif?raw=true" alt="Start Screen" width="500" height="500">
- <img src="" alt="Background" width="500" height="500">
+ <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/frame_0.gif?raw=true" alt="Background" width="500" height="500">
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/end_0.png?raw=true" alt="End Screen" width="500" height="500">
