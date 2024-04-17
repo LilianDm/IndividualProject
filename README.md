@@ -8,5 +8,5 @@
 * Hangman that depletes when there are more incorrect letters
 * Battle sequence with Scriptorus Darkscribe
 ### Class Diagram and Mockups
-![Grid Layout]()
+![Grid Layout](https://github.com/LilianDm/IndividualProject/blob/main/images/Letter_Quest_Daigram.png?raw=true)
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/hang-Start.gif?raw=true" alt="Start Screen" width="500" height="500">
