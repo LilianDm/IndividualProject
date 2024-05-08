@@ -12,10 +12,12 @@
 ![Grid Layout](https://github.com/LilianDm/IndividualProject/blob/main/images/Letter_Quest_Daigram.png?raw=true)
 ## Start Screen
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/hang-Start.gif?raw=true" alt="Start Screen" width="500" height="500">
+ <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/start.png?raw=true" alt="Info Screen" width="500" height="500">
+ 
 
 ## Play Screen
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/frame_0.gif?raw=true" alt="Background" width="500" height="500">
- <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/LQGameplay.png?raw=true" alt="Background" width="500" height="500">
+ <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/LQGameplay.png?raw=true" alt="Gameplay" width="500" height="500">
  
  ## Losing End Screen
  <img src="https://github.com/LilianDm/IndividualProject/blob/main/images/end_0.png?raw=true" alt="End Screen" width="500" height="500">
